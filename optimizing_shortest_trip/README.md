@@ -6,3 +6,5 @@ The Completed model is able to take a list of locations from a CSV file and will
 A poster was created to walk through the process taken for this project and was presented at the 2024 INFORMS Analytics Conference.
 
 A video of me walking through the poster in more detail can be found [here](https://youtu.be/e8qk0L4zYrM).
+
+![Image of the Poster that was created to describe the project](https://github.com/kwade13/kwade13.github.io/blob/1d88bae1f1a814675802ef4bd9abb540c11b3cc1/optimizing_shortest_trip/Kathleen_Wade%20-%20MSBA%20-%20Poster-%20Final.png)
